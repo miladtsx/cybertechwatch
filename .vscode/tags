@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+DocHelper.py	../Helpers/DocHelper.py	1;"	kind:file	line:1
+DoesItMatch	../Helpers/NewsHelper.py	/^def DoesItMatch(newItem, localRepoItem):$/;"	kind:function	line:7
+DoesItMatch	../main.py	/^from NewsHelper import DoesItMatch, freshNews$/;"	kind:namespace	line:6
+GetNewsOffline	../main.py	/^def GetNewsOffline():$/;"	kind:function	line:58
+GetNewsOnline	../main.py	/^def GetNewsOnline(url):$/;"	kind:function	line:20
+Model.py	../Helpers/Model.py	1;"	kind:file	line:1
+NewsHelper.py	../Helpers/NewsHelper.py	1;"	kind:file	line:1
+UpdateNewsDB	../main.py	/^def UpdateNewsDB():$/;"	kind:function	line:15
+__init__	../Helpers/Model.py	/^    def __init__(self, title, description, url, date):$/;"	kind:member	line:4
+datetime	../Helpers/NewsHelper.py	/^from datetime import datetime, timedelta$/;"	kind:namespace	line:3
+difflib	../Helpers/NewsHelper.py	/^import difflib$/;"	kind:namespace	line:1
+feedparser	../main.py	/^import feedparser$/;"	kind:namespace	line:5
+freshNews	../Helpers/NewsHelper.py	/^def freshNews(date):$/;"	kind:function	line:19
+freshNews	../main.py	/^from NewsHelper import DoesItMatch, freshNews$/;"	kind:namespace	line:6
+getYesterday	../Helpers/NewsHelper.py	/^def getYesterday():$/;"	kind:function	line:15
+listOfnewsSources	../Helpers/Model.py	/^listOfnewsSources = [$/;"	kind:variable	line:11
+listOfnewsSources	../main.py	/^from Model import news, listOfnewsSources$/;"	kind:namespace	line:4
+localNewsRepository	../main.py	/^localNewsRepository = []$/;"	kind:variable	line:8
+localRedundantNewsRepository	../main.py	/^localRedundantNewsRepository = []$/;"	kind:variable	line:9
+main.py	../main.py	1;"	kind:file	line:1
+news	../Helpers/Model.py	/^class news():$/;"	kind:class	line:2
+news	../main.py	/^from Model import news, listOfnewsSources$/;"	kind:namespace	line:4
+parser	../Helpers/NewsHelper.py	/^from dateutil import parser$/;"	kind:namespace	line:4
+sys	../Helpers/NewsHelper.py	/^import sys$/;"	kind:namespace	line:2
+sys	../main.py	/^import sys$/;"	kind:namespace	line:2
+timedelta	../Helpers/NewsHelper.py	/^from datetime import datetime, timedelta$/;"	kind:namespace	line:3
