@@ -28,3 +28,4 @@ listOfnewsSources = [
 #Global variables
 localNewsRepository = []
 localRedundantNewsRepository = []
+baselineDate = 6

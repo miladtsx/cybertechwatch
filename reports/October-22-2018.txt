@@ -1,0 +1,356 @@
+3 top multi-cloud security challenges, and how to build a strategy
+Mon, 22 Oct 2018 10:33:04 +0000
+https://www.secnews24.com/2018/10/22/3-top-multi-cloud-security-challenges-and-how-to-build-a-strategy/
+
+Alleged robber busted after Facebook-friending victim to apologize
+Mon, 22 Oct 2018 12:03:13 +0000
+https://www.secnews24.com/2018/10/22/alleged-robber-busted-after-facebook-friending-victim-to-apologize/
+
+Any Sound Recorder 2.93 Buffer Overflow
+Wed, 17 Oct 2018 15:06:00 +0000
+http://exploit.kitploit.com/2018/10/any-sound-recorder-293-buffer-overflow.html
+
+Apache Traffic Server TLS Handshake Processing Denial of Service Vulnerability
+Fri, 19 Oct 2018 16:07:46 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59024&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Apache%20Traffic%20Server%20TLS%20Handshake%20Processing%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Artifex Ghostscript Sandbox Protection Mechanism Bypass Vulnerability
+Tue, 16 Oct 2018 18:46:59 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59015&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Artifex%20Ghostscript%20Sandbox%20Protection%20Mechanism%20Bypass%20Vulnerability&vs_k=1
+
+AudaCity 2.3 – Denial of Service (PoC)
+Mon, 22 Oct 2018 10:27:05 +0000
+https://www.secnews24.com/2018/10/22/audacity-2-3-denial-of-service-poc/
+
+Cisco Aironet 1560, 1800, 2800, and 3800 Series Access Points Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-aironet-dos?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Aironet%201560,%201800,%202800,%20and%203800%20Series%20Access%20Points%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco Enterprise NFV Infrastructure Software Cross-Site Request Forgery Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-nfvis-csrf?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Enterprise%20NFV%20Infrastructure%20Software%20Cross-Site%20Request%20Forgery%20Vulnerability&vs_k=1
+
+Cisco FXOS and NX-OS Software Link Layer Discovery Protocol Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-fxnx-os-dos?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20FXOS%20and%20NX-OS%20Software%20Link%20Layer%20Discovery%20Protocol%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco IOS Access Points Software 802.11r Fast Transition Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-ap-ft-dos?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20IOS%20Access%20Points%20Software%20802.11r%20Fast%20Transition%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco NX-OS Software Authenticated Simple Network Management Protocol Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-nxos-snmp?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20NX-OS%20Software%20Authenticated%20Simple%20Network%20Management%20Protocol%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco NX-OS Software for Nexus 5500, 5600, and 6000 Series Switches Precision Time Protocol Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-nexus-ptp-dos?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20NX-OS%20Software%20for%20Nexus%205500,%205600,%20and%206000%20Series%20Switches%20Precision%20Time%20Protocol%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco Prime Collaboration Assurance Cross-Site Request Forgery Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-cpca-csrf?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Prime%20Collaboration%20Assurance%20Cross-Site%20Request%20Forgery%20Vulnerability&vs_k=1
+
+Cisco Releases Security Updates
+Wed, 17 Oct 2018 18:53:23 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/17/Cisco-Releases-Security-Updates
+
+Cisco SocialMiner Cross-Site Scripting Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-sm-xss?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20SocialMiner%20Cross-Site%20Scripting%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software Control and Provisioning of Wireless Access Points Protocol Denial of Service Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-capwap-dos?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20Control%20and%20Provisioning%20of%20Wireless%20Access%20Points%20Protocol%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software Control and Provisioning of Wireless Access Points Protocol Information Disclosure Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-capwap-memory-leak?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20Control%20and%20Provisioning%20of%20Wireless%20Access%20Points%20Protocol%20Information%20Disclosure%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software Cross-Site Scripting Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlan-xss?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20Cross-Site%20Scripting%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software Directory Traversal Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-traversal?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20Directory%20Traversal%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software GUI Privilege Escalation Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-gui-privesc?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20GUI%20Privilege%20Escalation%20Vulnerability&vs_k=1
+
+Cisco Wireless LAN Controller Software Information Disclosure Vulnerability
+Wed, 17 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181017-wlc-id?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Cisco%20Wireless%20LAN%20Controller%20Software%20Information%20Disclosure%20Vulnerability&vs_k=1
+
+ClamAV MEW Unpacker Denial of Service Vulnerability
+Tue, 16 Oct 2018 18:47:00 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59014&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=ClamAV%20MEW%20Unpacker%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+D-Link Plain-Text Password Storage / Code Execution / Directory Traversal
+Thu, 18 Oct 2018 03:13:00 +0000
+http://exploit.kitploit.com/2018/10/d-link-plain-text-password-storage-code.html
+
+Dell EMC ESRS Virtual Edition Information Handling
+Wed, 17 Oct 2018 15:08:00 +0000
+http://exploit.kitploit.com/2018/10/dell-emc-esrs-virtual-edition.html
+
+Don’t Dwell On It: How to Detect a Breach on Your Network More Efficiently
+Mon, 22 Oct 2018 11:03:04 +0000
+https://www.secnews24.com/2018/10/22/dont-dwell-on-it-how-to-detect-a-breach-on-your-network-more-efficiently/
+
+Drupal Releases Security Updates
+Thu, 18 Oct 2018 22:00:21 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/18/Drupal-Releases-Security-Updates
+
+Ekushey Project Manager CRM 3.1 Cross Site Scripting
+Wed, 17 Oct 2018 15:09:00 +0000
+http://exploit.kitploit.com/2018/10/ekushey-project-manager-crm-31-cross.html
+
+FBI Releases Article on Defending Against Payroll Phishing Scams
+Tue, 16 Oct 2018 23:14:05 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/16/FBI-Releases-Article-Defending-Against-Payroll-Phishing-Scams
+
+Facebook approaches major cybersecurity firms, acquisition goals in mind
+Mon, 22 Oct 2018 11:18:04 +0000
+https://www.secnews24.com/2018/10/22/facebook-approaches-major-cybersecurity-firms-acquisition-goals-in-mind/
+
+Facebook hopes to restore faith by acquiring a major cybersecurity firm
+Mon, 22 Oct 2018 12:48:04 +0000
+https://www.secnews24.com/2018/10/22/facebook-hopes-to-restore-faith-by-acquiring-a-major-cybersecurity-firm/
+
+Git Submodule Arbitrary Code Execution
+Wed, 17 Oct 2018 15:07:00 +0000
+http://exploit.kitploit.com/2018/10/git-submodule-arbitrary-code-execution_17.html
+
+Google Releases Security Update for Chrome
+Tue, 16 Oct 2018 20:44:24 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/16/Google-Releases-Security-Update-Chrome
+
+IBM Security Named a Leader in IDC Incident Response MarketScape Report
+Mon, 22 Oct 2018 12:33:04 +0000
+https://www.secnews24.com/2018/10/22/ibm-security-named-a-leader-in-idc-incident-response-marketscape-report/
+
+IoT Trends: Round of Announcements at IoT SWC
+Mon, 22 Oct 2018 10:48:04 +0000
+https://www.secnews24.com/2018/10/22/iot-trends-round-of-announcements-at-iot-swc/
+
+LANGO Codeigniter Multilingual Script 1.0 Cross Site Scripting
+Wed, 17 Oct 2018 15:08:00 +0000
+http://exploit.kitploit.com/2018/10/lango-codeigniter-multilingual-script.html
+
+LCDS – Leão Consultoria e Desenvolvimento de Sistemas Ltda ME LAquis SCADA
+Tue, 16 Oct 2018 14:44:39 EDT
+https://ics-cert.us-cert.gov/advisories/ICSA-18-289-01
+
+Learning With Texts 1.6.2 SQL Injection
+Thu, 18 Oct 2018 14:27:00 +0000
+http://exploit.kitploit.com/2018/10/learning-with-texts-162-sql-injection.html
+
+Libssh-Authentication-Bypass - Spawn To Shell Without Any Credentials By Using CVE-2018-10933
+Wed, 17 Oct 2018 14:30:00 +0000
+http://exploit.kitploit.com/2018/10/libssh-authentication-bypass-spawn-to.html
+
+Linux Kernel BPF Verifier Out-of-Bounds Memory Access Vulnerability
+Thu, 18 Oct 2018 16:04:05 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59020&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Linux%20Kernel%20BPF%20Verifier%20Out-of-Bounds%20Memory%20Access%20Vulnerability&vs_k=1
+
+Linux Kernel IP Fragment Reassembly Denial of Service Vulnerability Affecting Cisco Products: August 2018
+Fri, 19 Oct 2018 17:52:10 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180824-linux-ip-fragment?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Linux%20Kernel%20IP%20Fragment%20Reassembly%20Denial%20of%20Service%20Vulnerability%20Affecting%20Cisco%20Products:%20August%202018&vs_k=1
+
+Linux Kernel drivers/tty/n_tty.c Denial of Service Vulnerability
+Fri, 19 Oct 2018 15:48:19 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59023&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Linux%20Kernel%20drivers/tty/n_tty.c%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Maker of LuminosityLink RAT gets 30 months in the clink
+Mon, 22 Oct 2018 10:03:04 +0000
+https://www.secnews24.com/2018/10/22/maker-of-luminositylink-rat-gets-30-months-in-the-clink/
+
+ManageEngine OPManager 12.3 Cross Site Scripting
+Wed, 17 Oct 2018 15:06:00 +0000
+http://exploit.kitploit.com/2018/10/manageengine-opmanager-123-cross-site.html
+
+Microsoft Releases Security Update for Yammer
+Fri, 19 Oct 2018 21:09:53 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/19/Microsoft-Releases-Security-Update-Yammer
+
+Microsoft Windows SetImeInfoEx Win32k NULL Pointer Dereference
+Sat, 20 Oct 2018 03:06:00 +0000
+http://exploit.kitploit.com/2018/10/microsoft-windows-setimeinfoex-win32k.html
+
+NCSC Releases 2018 Annual Review
+Sat, 20 Oct 2018 00:13:52 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/19/NCSC-Releases-2018-Annual-Review
+
+National Cybersecurity Awareness Month: Workplace Cybersecurity
+Tue, 16 Oct 2018 15:52:24 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/16/National-Cybersecurity-Awareness-Month-Workplace-Cybersecurity
+
+Omron CX-Supervisor
+Wed, 17 Oct 2018 08:55:45 EDT
+https://ics-cert.us-cert.gov/advisories/ICSA-18-290-01
+
+Oracle Critical Patch Update Advisory - October 2018
+Tue, 16 Oct  2018 12:30:54 -0700
+https://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html
+
+Oracle Releases October 2018 Security Bulletin
+Tue, 16 Oct 2018 20:30:20 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/16/Oracle-Releases-October-2018-Security-Bulletin
+
+Oracle Siebel CRM 8.1.1 – CSV Injection
+Mon, 22 Oct 2018 09:51:05 +0000
+https://www.secnews24.com/2018/10/22/oracle-siebel-crm-8-1-1-csv-injection/
+
+OwnTicket 1.0 SQL Injection
+Thu, 18 Oct 2018 14:28:00 +0000
+http://exploit.kitploit.com/2018/10/ownticket-10-sql-injection.html
+
+PHP-SHOP Master 1.0 Cross Site Request Forgery
+Thu, 18 Oct 2018 14:28:00 +0000
+http://exploit.kitploit.com/2018/10/php-shop-master-10-cross-site-request.html
+
+PM Urges Sanctions in Response to Cyber-Attacks
+Mon, 22 Oct 2018 09:48:04 +0000
+https://www.secnews24.com/2018/10/22/pm-urges-sanctions-in-response-to-cyber-attacks/
+
+Pivotal Software Spring Framework STOMP Broker Arbitrary Code Execution Vulnerability
+Fri, 19 Oct 2018 15:22:21 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59022&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Pivotal%20Software%20Spring%20Framework%20STOMP%20Broker%20Arbitrary%20Code%20Execution%20Vulnerability&vs_k=1
+
+Popular website plugin harboured a serious 0-day for years
+Mon, 22 Oct 2018 12:48:04 +0000
+https://www.secnews24.com/2018/10/22/popular-website-plugin-harboured-a-serious-0-day-for-years/
+
+PostgreSQL INSERT ... ON CONFLICT DO UPDATE Improper Authorization Vulnerability
+Fri, 19 Oct 2018 20:25:24 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59025&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=PostgreSQL%20INSERT%20...%20ON%20CONFLICT%20DO%20UPDATE%20Improper%20Authorization%20Vulnerability&vs_k=1
+
+Project Lakhta: Russian national charged with US election meddling
+Mon, 22 Oct 2018 12:18:04 +0000
+https://www.secnews24.com/2018/10/22/project-lakhta-russian-national-charged-with-us-election-meddling/
+
+Red Hat JBoss RichFaces Expression Language Injection Arbitrary Java Code Execution Vulnerability
+Wed, 17 Oct 2018 20:33:33 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59019&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Red%20Hat%20JBoss%20RichFaces%20Expression%20Language%20Injection%20Arbitrary%20Java%20Code%20Execution%20Vulnerability&vs_k=1
+
+Repairnator bot finds software bugs, successfully submits patches
+Mon, 22 Oct 2018 12:03:13 +0000
+https://www.secnews24.com/2018/10/22/repairnator-bot-finds-software-bugs-successfully-submits-patches/
+
+Security: After Estonia’s ID-card train wreck this identity app is taking Baltics by storm
+Mon, 22 Oct 2018 10:18:04 +0000
+https://www.secnews24.com/2018/10/22/security-after-estonias-id-card-train-wreck-this-identity-app-is-taking-baltics-by-storm/
+
+Splunk Django App Path Traversal Vulnerability
+Fri, 19 Oct 2018 20:25:22 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59028&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Splunk%20Django%20App%20Path%20Traversal%20Vulnerability&vs_k=1
+
+Splunk Splunkd HTTP Request Processing Denial of Service Vulnerability
+Fri, 19 Oct 2018 20:25:23 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59029&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Splunk%20Splunkd%20HTTP%20Request%20Processing%20Denial%20of%20Service%20Vulnerability&vs_k=1
+
+Splunk Web Interface Cross-Site Scripting Vulnerability
+Fri, 19 Oct 2018 20:25:19 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59026&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=Splunk%20Web%20Interface%20Cross-Site%20Scripting%20Vulnerability&vs_k=1
+
+TP-Link TL-SC3130 1.6.18 Unauthenticated RTSP Stream Disclosure
+Wed, 17 Oct 2018 15:09:00 +0000
+http://exploit.kitploit.com/2018/10/tp-link-tl-sc3130-1618-unauthenticated.html
+
+TeX Live t1_check_unusual_charstring Functions Arbitrary Code Execution Vulnerability
+Tue, 16 Oct 2018 18:46:56 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59016&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=TeX%20Live%20t1_check_unusual_charstring%20Functions%20Arbitrary%20Code%20Execution%20Vulnerability&vs_k=1
+
+The Open ISES Project 3.30A – ‘tick_lat’ SQL Injection
+Mon, 22 Oct 2018 10:51:05 +0000
+https://www.secnews24.com/2018/10/22/the-open-ises-project-3-30a-tick_lat-sql-injection/
+
+Time And Expense Management System 3.0 Cross Site Request Forgery
+Wed, 17 Oct 2018 15:07:00 +0000
+http://exploit.kitploit.com/2018/10/time-and-expense-management-system-30.html
+
+Time And Expense Management System 3.0 SQL Injection
+Thu, 18 Oct 2018 03:17:00 +0000
+http://exploit.kitploit.com/2018/10/time-and-expense-management-system-30_17.html
+
+Trade.io loses $7.5Mil worth of cryptocurrency in mysterious cold wallet hack
+Mon, 22 Oct 2018 11:18:04 +0000
+https://www.secnews24.com/2018/10/22/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/
+
+US Indicts Another Russian for Role in Info Warfare Campaign
+Mon, 22 Oct 2018 11:33:07 +0000
+https://www.secnews24.com/2018/10/22/us-indicts-another-russian-for-role-in-info-warfare-campaign/
+
+Up to 9.5 million net neutrality comments were fake
+Mon, 22 Oct 2018 11:03:04 +0000
+https://www.secnews24.com/2018/10/22/up-to-9-5-million-net-neutrality-comments-were-fake/
+
+User Management 1.1 Cross Site Scripting
+Thu, 18 Oct 2018 03:16:00 +0000
+http://exploit.kitploit.com/2018/10/user-management-11-cross-site-scripting.html
+
+VMware Releases Security Updates
+Tue, 16 Oct 2018 21:08:16 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/16/VMware-Releases-Security-Updates
+
+VMware SVGA Device Out-of-Bounds Read Vulnerability
+Tue, 16 Oct 2018 21:01:13 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59017&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=VMware%20SVGA%20Device%20Out-of-Bounds%20Read%20Vulnerability&vs_k=1
+
+Viprinet VPN Hub Router Cross Site Scripting
+Sat, 20 Oct 2018 03:05:00 +0000
+http://exploit.kitploit.com/2018/10/viprinet-vpn-hub-router-cross-site.html
+
+What Can We All Learn From the U.S. Department of Energy’s Cybersecurity Strategy?
+Mon, 22 Oct 2018 12:48:04 +0000
+https://www.secnews24.com/2018/10/22/what-can-we-all-learn-from-the-u-s-department-of-energys-cybersecurity-strategy/
+
+WiFiRanger 7.0.8rc3 Incorrect Access Control / Privilege Escalation
+Sat, 20 Oct 2018 03:05:00 +0000
+http://exploit.kitploit.com/2018/10/wifiranger-708rc3-incorrect-access.html
+
+WordPress Wordfence 7.1.12 XSS / Username Disclosure
+Thu, 18 Oct 2018 03:13:00 +0000
+http://exploit.kitploit.com/2018/10/wordpress-wordfence-7112-xss-username.html
+
+Zenar Content Management System 8.3 Cross Site Request Forgery
+Thu, 18 Oct 2018 03:16:00 +0000
+http://exploit.kitploit.com/2018/10/zenar-content-management-system-83.html
+
+Zoho ManageEngine OpManager 12.3 Arbitrary File Upload
+Sat, 20 Oct 2018 03:04:00 +0000
+http://exploit.kitploit.com/2018/10/zoho-manageengine-opmanager-123.html
+
+iOS / macOS IOHIDResourceQueue::enqueueReport Integer Overflow
+Sat, 20 Oct 2018 03:03:00 +0000
+http://exploit.kitploit.com/2018/10/ios-macos-iohidresourcequeueenqueuerepo.html
+
+iOS Kernel Personas Use-After-Free
+Sat, 20 Oct 2018 03:02:00 +0000
+http://exploit.kitploit.com/2018/10/ios-kernel-personas-use-after-free.html
+
+iOS copyin Check Kernel Stack Memory Disclosure
+Sat, 20 Oct 2018 03:03:00 +0000
+http://exploit.kitploit.com/2018/10/ios-copyin-check-kernel-stack-memory.html
+
+libSSH Authentication Bypass
+Sat, 20 Oct 2018 03:04:00 +0000
+http://exploit.kitploit.com/2018/10/libssh-authentication-bypass.html
+
+libssh Authentication Bypass Vulnerability Affecting Cisco Products: October 2018
+Fri, 19 Oct 2018 16:00:00 CDT
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20181019-libssh?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=libssh%20Authentication%20Bypass%20Vulnerability%20Affecting%20Cisco%20Products:%20October%202018&vs_k=1
+
+libssh Releases Security Updates
+Fri, 19 Oct 2018 21:43:54 +0000
+https://www.us-cert.gov/ncas/current-activity/2018/10/19/libssh-Releases-Security-Updates
+
+libssh Server-Side State Machine Unauthorized Access Vulnerability
+Wed, 17 Oct 2018 17:13:38 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59018&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=libssh%20Server-Side%20State%20Machine%20Unauthorized%20Access%20Vulnerability&vs_k=1
+
+tcpflow wifipcap.cpp Integer Overflow Vulnerability
+Thu, 18 Oct 2018 19:54:37 CDT
+https://tools.cisco.com/security/center/viewAlert.x?alertId=59021&vs_f=Alert%20RSS&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=tcpflow%20wifipcap.cpp%20Integer%20Overflow%20Vulnerability&vs_k=1
+

@@ -1,11 +1,10 @@
 import difflib
 import sys
+import feedparser
 from datetime import datetime, timedelta
 from dateutil import parser
-from Model import listOfnewsSources, news, localNewsRepository, localRedundantNewsRepository
-import feedparser
-
-
+from Model import listOfnewsSources, news, localNewsRepository, localRedundantNewsRepository, baselineDate
+from multiprocessing.dummy import Pool as ThreadPool 
 
 
 def DoesItMatch(newItem, localRepoItem):
@@ -15,32 +14,45 @@ def DoesItMatch(newItem, localRepoItem):
     else:
         return False
 
-
-def getYesterday():
-    return str(datetime.now() - timedelta(days=1))[:10]
+# determine the baseline date where News before that day, should be ignored.
+# 1 --> just news which was published 24 hours ago
+# 3 --> News which published 3 days ago
+def getBaselineDate():
+    return str(datetime.now() - timedelta(days=baselineDate))[:10]
 
 
 def freshNews(date):
     newsDate = str(parser.parse(date[:-3]))[:10]
-    yesterday = getYesterday()
-    return (newsDate >= yesterday)
+    return newsDate >= getBaselineDate()
 
 
 def UpdateNewsDB():
-    for sourceUrl in listOfnewsSources:
-        GetNewsOnline(sourceUrl)
-    localNewsRepository.sort(key=lambda x: x.title)
+
+    # make the Pool of workers
+    pool = ThreadPool(len(listOfnewsSources)) 
+
+    # open the urls in their own threads
+    # and return the results
+    pool.map(GetNewsOnline, listOfnewsSources)
+
+    # close the pool and wait for the work to finish 
+    pool.close() 
+    pool.join() 
+
+    # for item in listOfnewsSources:
+    #     GetNewsOnline(item)
 
 
 def GetNewsOnline(url):
     try:
+        #print '\n[Get] ' + url
         RSSContent = feedparser.parse(url)
         # TODO Check For Null and Errors
         newsGot = RSSContent.entries
         if(len(newsGot) > 0):
-            print '[' + str(RSSContent.status) + '] ' + url
+            print '\r' + '[' + str(RSSContent.status) + '] ' + url
         else:
-            print '[' + str(RSSContent.status) + '] ' + url
+            print '\r' + '[' + str(RSSContent.status) + '] ' + url
 
         for newsItem in newsGot:
             if(not freshNews(newsItem.published)):
@@ -75,6 +87,7 @@ def GetNewsOnline(url):
 def GetNewsOffline():
     NotImplementedError
 
+
 def PrintNews():
     for i in localNewsRepository:
         print '- ' + i.title + '\n' + i.url + '\n'
@@ -83,3 +96,21 @@ def PrintNews():
 
     for rn in localRedundantNewsRepository:
         print '\t[Redundant News] ' + rn.title + '\n' + rn.url
+
+
+def saveToFile():
+    try:
+        if (len(localNewsRepository) < 1):
+            print "[Info] Abort Saving report; no News found!"
+            return
+        localNewsRepository.sort(key=lambda x: x.title)
+        
+        f = open("./reports/" + datetime.today().strftime("%B-%d-%Y.txt"), "w")
+
+        for item in localNewsRepository:
+                f.writelines(str(item.title.encode('utf-8')) + '\n' + str(item.date) + '\n' + str(item.url) + '\n\n')
+
+        
+        print "News File Generated (" + str(len(localNewsRepository)) + ")."
+    except Exception,e:
+        print '[Err] File operation failed!' + str(e)

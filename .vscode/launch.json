@@ -9,7 +9,10 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "${file}"
+            "program": "${file}",
+            "args":[
+                "1"
+            ]
         },
         {
             "name": "Python: Attach",
