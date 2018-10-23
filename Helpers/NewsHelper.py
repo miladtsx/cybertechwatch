@@ -5,6 +5,8 @@ from datetime import datetime, timedelta
 from dateutil import parser
 from Model import listOfnewsSources, news, localNewsRepository, localRedundantNewsRepository, baselineDate
 from multiprocessing.dummy import Pool as ThreadPool 
+from docx import Document
+from docx.shared import Pt
 
 
 def DoesItMatch(newItem, localRepoItem):
@@ -18,7 +20,7 @@ def DoesItMatch(newItem, localRepoItem):
 # 1 --> just news which was published 24 hours ago
 # 3 --> News which published 3 days ago
 def getBaselineDate():
-    return str(datetime.now() - timedelta(days=baselineDate))[:10]
+    return str(datetime.now() - timedelta(days=3))[:10]
 
 
 def freshNews(date):
@@ -105,11 +107,15 @@ def saveToFile():
             return
         localNewsRepository.sort(key=lambda x: x.title)
         
-        f = open("./reports/" + datetime.today().strftime("%B-%d-%Y.txt"), "w")
-
+        doc = Document()
         for item in localNewsRepository:
-                f.writelines(str(item.title.encode('utf-8')) + '\n' + str(item.date) + '\n' + str(item.url) + '\n\n')
-
+            
+            doc.add_heading(str(item.title.encode('utf-8')), level=2)
+            p = doc.add_paragraph('')
+            p.add_run(str(item.date) + '\n').font.size=Pt(9)
+            p.add_run(str(item.url)).font.size=Pt(8)
+                                
+        doc.save('./reports/' + datetime.today().strftime("%B-%d-%Y.docx"))
         
         print "News File Generated (" + str(len(localNewsRepository)) + ")."
     except Exception,e:
