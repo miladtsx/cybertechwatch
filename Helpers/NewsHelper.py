@@ -1,22 +1,10 @@
 from Model import listOfnewsSources, news, localNewsRepository, localRedundantNewsRepository
-from Helper import doesItMatch, getRSSContent, freshNews
+from HelperMethods import doesItMatch, getRSSContent, freshNews
 from TaskHelper import taskRun
 
 def updateNewsDB():
 
     taskRun(getNewsOnline, listOfnewsSources, len(listOfnewsSources))
-
-    # # make the Pool of workers
-    # pool = ThreadPool(len(listOfnewsSources)) 
-
-    # # open the urls in their own threads
-    # # and return the results
-    # pool.map(getNewsOnline, listOfnewsSources)
-
-    # # close the pool and wait for the work to finish 
-    # pool.close() 
-    # pool.join() 
-
 
 def getNewsOnline(url):
     try:
