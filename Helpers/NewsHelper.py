@@ -1,5 +1,5 @@
 from Model import listOfnewsSources, news, localNewsRepository, localRedundantNewsRepository
-from HelperMethods import doesItMatch, getRSSContent, freshNews
+from Helper import doesItMatch, getRSSContent, freshNews
 from TaskHelper import taskRun
 
 def updateNewsDB():

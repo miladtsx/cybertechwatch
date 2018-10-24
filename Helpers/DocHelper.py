@@ -1,7 +1,7 @@
 from docx import Document
 from docx.shared import Pt
 from Model import  localNewsRepository
-from HelperMethods import getFileName
+from Helper import getFileName
 
 def saveToFile():
     try:
