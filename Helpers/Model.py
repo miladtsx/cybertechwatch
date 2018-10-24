@@ -20,8 +20,7 @@ listOfnewsSources = [
     'https://tools.cisco.com/security/center/psirtrss20/CiscoSecurityAdvisory.xml',
     'https://www.novell.com/newsfeeds/rss/patches/security_notifications-daily.xml',
     'https://access.redhat.com/blogs/766093/feed',
-    'https://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/rss-otn-sec.xml',
-    ''
+    'https://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/rss-otn-sec.xml'
  ]
 
     #'https://www.certcc.ir/news/rss',
