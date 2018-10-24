@@ -1,10 +1,11 @@
 #!/usr/bin/python2
-import sys, thread
+import sys
 sys.path.insert(0, './Helpers')
-from NewsHelper import UpdateNewsDB, PrintNews, saveToFile
-import Model
+from NewsHelper import updateNewsDB
+from DocHelper import saveToFile
+
 
 
 if __name__ == "__main__":
-    UpdateNewsDB()
+    updateNewsDB()
     saveToFile()
