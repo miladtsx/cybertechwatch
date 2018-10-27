@@ -2,9 +2,6 @@
 
 echo "Trying to install requirements ...\n"
 
-sudo apt install python;
-sudo apt install python-pip;
-
 printf "#!/bin/bash\n python ./main.py" > run.sh
 
 printf "python-docx>=0.8.7\n feedparser>=5.2.1" > requirements.txt
