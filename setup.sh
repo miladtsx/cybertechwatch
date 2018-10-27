@@ -13,4 +13,4 @@ printf "\nInstalling requirements ...\n"
 python -m pip install -r requirements.txt 
 rm requirements.txt
 
-printf "Done.\nNow execute chmod +x run.sh then execute ./run.sh"
+printf "Done.\nNow execute chmod +x run.sh then execute ./run.sh\n"
