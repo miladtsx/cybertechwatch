@@ -29,6 +29,8 @@ def doesItMatch(str1, str2):
         return False
 
 def getFileName():
+    if not os.path.exists('./reports/'):
+        os.mkdir('./reports/')
     return './reports/' + datetime.today().strftime("%B-%d-%Y.docx")
 
 def getRSSContent(url):
