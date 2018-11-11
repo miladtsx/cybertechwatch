@@ -3,7 +3,7 @@ from dateutil import parser
 from Model import baselineDate
 import difflib
 import feedparser
-
+import os
 
 # determine the baseline date where News before that day, should be ignored.
 # 1 --> just news which was published 24 hours ago
