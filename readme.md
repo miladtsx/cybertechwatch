@@ -23,8 +23,8 @@ run.bat
 for ```linux``` environments:
 
 ```
+sh ./setup.sh
 chmod +x run.sh
-
 ./run.sh
 
 ```
