@@ -39,6 +39,7 @@ then wait for the result to be saved in <b>reports</b> directory.
 * [difflib](https://pymotw.com/2/difflib/) - Compare sequences, especially lines of text
 * [python-docx](https://python-docx.readthedocs.io/en/latest/) - creating and updating Microsoft Word (.docx) files
 * [Pool](https://sebastianraschka.com/Articles/2014_multiprocessing.html) - multiprocessing module
+* [traceback](https://docs.python.org/2/library/traceback.html) -  Print stack traces of Python programs
 
 
 ## Contributing
