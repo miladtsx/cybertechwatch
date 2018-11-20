@@ -1,5 +1,6 @@
 from docx import Document
 from docx.shared import Pt
+import traceback
 from Model import  localNewsRepository
 from HelperMethods import getFileName
 
@@ -19,7 +20,6 @@ def saveToFile():
             p.add_run(str(item.url)).font.size=Pt(8)
                                 
         doc.save(getFileName())
-        
         print "News File Generated (" + str(len(localNewsRepository)) + ")."
-    except Exception,e:
-        print '[Err] File operation failed!' + str(e)
+    except Exception:
+        print traceback.print_exc()
