@@ -1,4 +1,5 @@
 from multiprocessing.dummy import Pool as ThreadPool 
+import traceback
 
 def taskRun(functionName, data, threadCount):
     try:
@@ -10,4 +11,4 @@ def taskRun(functionName, data, threadCount):
         pool.close() 
         pool.join() 
     except Exception,e:
-        print "Multitasking failed: " + str(e)
+        print "Multitasking failed: " + traceback.print_exc()
