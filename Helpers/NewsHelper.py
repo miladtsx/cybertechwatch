@@ -18,13 +18,19 @@ def updateNewsDB():
 def getNewsOnline(url):
     try:
         webContent = getRSSContent(url)
-        # TODO Check For Null and Errors
+        
+        if(len(webContent) < 1):
+            return
 
+        
         newsGot = webContent.entries
         if(len(newsGot) > 0):
             print '\r' + '[' + str(webContent.status) + '] ' + url
         else:
-            print '\r' + '[' + str(webContent.status) + '] ' + url
+            print '\r' + '[Err] ' + url
+            return
+        if (webContent.status != 200):
+            return
 
         for newsItem in newsGot:
 
