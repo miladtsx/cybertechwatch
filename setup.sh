@@ -4,10 +4,10 @@ echo "Trying to install requirements ...\n"
 
 printf "#!/bin/bash\n python ./main.py" > run.sh
 
-printf "python-docx>=0.8.7\n feedparser>=5.2.1" > requirements.txt
+printf "python-docx>=0.8.7\n feedparser>=5.2.1\n python-dateutil>=2.7.3\n" > requirements.txt
 
 printf "\nInstalling requirements ...\n"
-python -m pip install -r requirements.txt 
+python -m pip install -r requirements.txt --user
 rm requirements.txt
 
 printf "Done.\n Execute chmod +x run.sh then execute ./run.sh\n"
