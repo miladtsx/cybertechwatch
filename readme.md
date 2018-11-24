@@ -40,7 +40,7 @@ then wait for the result to be saved in <b>reports</b> directory.
 * [python-docx](https://python-docx.readthedocs.io/en/latest/) - creating and updating Microsoft Word (.docx) files
 * [Pool](https://sebastianraschka.com/Articles/2014_multiprocessing.html) - multiprocessing module
 * [traceback](https://docs.python.org/2/library/traceback.html) -  Print stack traces of Python programs
-
+* [python-dateutil](https://pypi.org/project/python-dateutil/) - datetime utilities
 
 ## Contributing
 
