@@ -27,6 +27,7 @@ sh ./setup.sh
 
 ```
 then wait for the result to be saved in <b>reports</b> directory.
+
 from now on just ``` ./run.sh ``` to get the news.
 
 ## Modules used
