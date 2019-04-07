@@ -8,6 +8,7 @@ this tool reads multiple cybernews feeds and organizes them into a <i>docx</i> f
 ### Prerequisites
 
 - Python
+- python pip
 
 
 ### Installing
