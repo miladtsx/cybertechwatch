@@ -11,4 +11,4 @@ def taskRun(functionName, data, threadCount):
         pool.close() 
         pool.join() 
     except Exception:
-        print "Multitasking failed: " + traceback.print_exc()
+        print ("Multitasking failed: " , traceback.print_exc())
