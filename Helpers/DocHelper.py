@@ -22,7 +22,7 @@ def saveToFile():
                 add_hyperlink(p, item.url, str(item.url))
 
 
-            except Exception as e:
+            except Exception:
                 print ("Exception:" + item.title)
                 print ('[Err] ' + '\n' + traceback.print_exc())
                                 
