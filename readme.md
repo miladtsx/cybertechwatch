@@ -41,12 +41,3 @@ from now on just ``` ./run.sh ``` to get the news.
 * [Pool](https://sebastianraschka.com/Articles/2014_multiprocessing.html) - multiprocessing module
 * [traceback](https://docs.python.org/2/library/traceback.html) -  Print stack traces of Python programs
 * [python-dateutil](https://pypi.org/project/python-dateutil/) - datetime utilities
-
-## Contributing
-
-sure you can.
-
-
-## License
-
-Freeware.
