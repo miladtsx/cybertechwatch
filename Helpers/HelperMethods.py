@@ -17,9 +17,8 @@ def freshNews(date):
 
 def printNews(newsItems):
     for i in newsItems:
-        print '- ' + i.title + '\n' + i.url + '\n'
-    print 'Total News count: ' + \
-        str(len(newsItems)) + '\n' + '*' * 100
+        print ('- ' + i.title + '\n' + i.url + '\n')
+    print('Total News count: ' + str(len(newsItems)) + '\n' + '*' * 100)
 
 # Compare two string
 def doesItMatch(str1, str2):
